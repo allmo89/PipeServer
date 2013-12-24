@@ -1,0 +1,592 @@
+﻿Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Warning: The source PipeService is not registered on the local machine.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Warning: The source PipeService is not registered on the local machine.
+Service PipeService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: El servicio especificado no existe como servicio instalado
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Warning: The source PipeService is not registered on the local machine.
+Service PipeService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: El servicio especificado no existe como servicio instalado
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Warning: The source PipeService is not registered on the local machine.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Warning: The source PipeService is not registered on the local machine.
+Service PipeService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: El servicio especificado no existe como servicio instalado
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Creating EventLog source PipeService in log Application...
+Rolling back assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Restoring event log to previous state for source PipeService.
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Warning: The source PipeService is not registered on the local machine.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Warning: The source PipeService is not registered on the local machine.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Warning: The source PipeService is not registered on the local machine.
+Service PipeService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: El servicio especificado no existe como servicio instalado
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Warning: The source PipeService is not registered on the local machine.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Warning: The source PipeService is not registered on the local machine.
+Service PipeService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: El servicio especificado no existe como servicio instalado
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Warning: The source PipeService is not registered on the local machine.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Warning: The source PipeService is not registered on the local machine.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Warning: The source PipeService is not registered on the local machine.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Rolling back assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Attempt to stop service PipeService.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Creating EventLog source PipeService in log Application...
+Rolling back assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Restoring event log to previous state for source PipeService.
+Uninstalling assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+Removing EventLog source PipeService.
+Service PipeService is being removed from the system...
+Service PipeService was successfully removed from the system.
+Installing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 
+Installing service PipeService...
+Service PipeService has been successfully installed.
+Creating EventLog source PipeService in log Application...
+Committing assembly 'C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.InstallLog
+   assemblypath = C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+   logtoconsole = 

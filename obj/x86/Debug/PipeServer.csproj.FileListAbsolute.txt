@@ -1,0 +1,8 @@
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\PipeServer.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\CSP.RSA.Cipher.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\bin\Debug\CSP.RSA.Cipher.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\obj\x86\Debug\PipeServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\obj\x86\Debug\PipeServer.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeServer\obj\x86\Debug\PipeServer.pdb
